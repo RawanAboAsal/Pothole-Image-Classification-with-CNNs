@@ -1,4 +1,3 @@
-# Pothole-Image-Classification-with-CNNs
 #  Pothole Image Classification with CNNs
 
 This project focuses on developing a robust image classification system to detect road surface conditions using deep learning techniques. The goal is to classify road images into three categories: **Normal**, **Potholes**, and **Bumps**.
